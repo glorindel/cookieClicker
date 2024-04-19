@@ -1,4 +1,4 @@
-# Cookie Clicker Web Worker
+# The BEST Cookie Clicker Web Worker
 
 This is a JavaScript for online game Cookie Clicker.
 It will click cookie automatically for you, even if your tab is not active.
